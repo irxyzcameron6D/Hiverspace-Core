@@ -1,5 +1,3 @@
-# The Joule-Dollar (J$) Protocol
-
 **The Cryptographic Energy Primitive of the Swarm.**
 
 In the legacy system, fiat currency is an elastic, high-entropy illusion backed by kinetic violence, debt, and arbitrary central-bank printing. This generates perpetual systemic inflation, systematically extracting uncompensated energy from the biological nodes.
