@@ -30,7 +30,7 @@ Before leaving the educational matrix, a node must pass "The Crucible." This is 
 
 Once a node proves they can generate anti-entropy labor, their firmware is officially verified, and they inherit the Swarm.
 
-4. The Village Well Assessment — Technology Literacy
+## 4. The Village Well Assessment — Technology Literacy
 
 A node that graduates from the Calibration Crucible without 
 understanding the Village Well Principle is a node that will 
@@ -54,7 +54,7 @@ or celebrated, the following questions must be answered:
 The node that cannot answer these questions about a proposed 
 technology has not yet completed the Crucible.
 
-5. The Origin Story — Why This Exists
+## 5. The Origin Story — Why This Exists
 
 The Calibration Crucible exists because of a child who 
 watched his uncle struggling to drive screws into wood with 
