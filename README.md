@@ -166,51 +166,52 @@ The machines do the factory work. The humans do the human work. For the first ti
 ```
 hiverspace-core/
 │
-├── README.md                          ← You are here
+├── [README.md](./README.md)                          ← You are here
 │
 ├── theory/
-│   ├── general-theory-of-social-behavior.md    ← The thermodynamic foundation
-│   ├── rosetta-key.md                           ← Translation instrument
-│   ├── stress-strain-brain.md                   ← Core mechanism definitions
-│   ├── superior-combination.md                  ← Evolution of combination theory
-│   ├── existential-threat-matrix.md             ← Why this is not optional
-│   └── philosophy-of-distribution.md            ← Justice, freedom, love, morality
+│   ├── [general-theory-of-social-behavior.md](./theory/general-theory-of-social-behavior.md)    ← The thermodynamic foundation
+│   ├── [rosetta-key.md](./theory/rosetta-key.md)                           ← Translation instrument
+│   ├── [stress-strain-brain.md](./theory/stress-strain-brain.md)                   ← Core mechanism definitions
+│   ├── [superior-combination.md](./theory/superior-combination.md)                  ← Evolution of combination theory
+│   ├── [existential-threat-matrix.md](./theory/existential-threat-matrix.md)             ← Why this is not optional
+│   └── [philosophy-of-distribution.md](./theory/philosophy-of-distribution.md)            ← Justice, freedom, love, morality
 │
 ├── economic-architecture/
-│   ├── joule-dollar-specification.md            ← Currency pegged to energy
-│   ├── dynamic-homeostatic-baseline.md          ← The thermodynamic floor
-│   ├── housing-liberation-cascade.md            ← 10 J$ → 4 billion freed nodes
-│   ├── global-health-trust.md                   ← Healthcare as savings mechanism
-│   ├── direct-production-distribution.md        ← Demand-first manufacturing
-│   ├── education-credits.md                     ← Students as producers
-│   ├── swarm-capital-deployment.md              ← 2.4T J$/year budget
-│   └── auto-liberation-fund.md                  ← Insurance as trust fund
+│   ├── [joule-dollar-specification.md](./economic-architecture/joule-dollar-specification.md)            ← Currency pegged to energy
+│   ├── [dynamic-homeostatic-baseline.md](./economic-architecture/dynamic-homeostatic-baseline.md)          ← The thermodynamic floor
+│   ├── [housing-liberation-cascade.md](./economic-architecture/housing-liberation-cascade.md)            ← 10 J$ → 4 billion freed nodes
+│   ├── [global-health-trust.md](./economic-architecture/global-health-trust.md)                   ← Healthcare as savings mechanism
+│   ├── [direct-production-distribution.md](./economic-architecture/direct-production-distribution.md)        ← Demand-first manufacturing
+│   ├── [education-credits.md](./economic-architecture/education-credits.md)                     ← Students as producers
+│   ├── [swarm-capital-deployment.md](./economic-architecture/swarm-capital-deployment.md)              ← 2.4T J$/year budget
+│   └── [auto-liberation-fund.md](./economic-architecture/auto-liberation-fund.md)                  ← Insurance as trust fund
 │
 ├── governance/
-│   ├── stochastic-sortition.md                  ← Randomized representative selection
-│   ├── directed-taxation.md                     ← Citizens specify spending
-│   └── non-kinetic-perimeter.md                 ← Defense through decentralization
+│   ├── [stochastic-sortition.md](./governance/stochastic-sortition.md)                  ← Randomized representative selection
+│   ├── [directed-taxation.md](./governance/directed-taxation.md)                     ← Citizens specify spending
+│   └── [non-kinetic-perimeter.md](./governance/non-kinetic-perimeter.md)                 ← Defense through decentralization
 │
 ├── implementation/
-│   ├── proof-of-generation-ledger.md            ← Technical specification
-│   ├── sortition-algorithm.md                   ← Cryptographic selection
-│   ├── dhb-smart-contract.md                    ← Baseline distribution mechanism
-│   ├── housing-lottery-protocol.md              ← Step-by-step implementation
-│   └── direct-production-platform.md            ← Demand signal system
+│   ├── [proof-of-generation-ledger.md](./implementation/proof-of-generation-ledger.md)            ← Technical specification
+│   ├── [sortition-algorithm.md](./implementation/sortition-algorithm.md)                   ← Cryptographic selection
+│   ├── [dhb-smart-contract.md](./implementation/dhb-smart-contract.md)                    ← Baseline distribution mechanism
+│   ├── [housing-lottery-protocol.md](./implementation/housing-lottery-protocol.md)              ← Step-by-step implementation
+│   └── [direct-production-platform.md](./implementation/direct-production-platform.md)            ← Demand signal system
 │
 ├── calibration-crucible/
-│   ├── education-philosophy.md                  ← Resonance-finding over sorting
-│   ├── curriculum-framework.md                  ← Thermodynamics as foundation
-│   └── rite-of-ascension.md                     ← The Crucible protocol
+│   ├── [codependency-networks-warning.md](./calibration-crucible/codependency-networks-warning.md)  ← Required reading first
+│   ├── [education-philosophy.md](./calibration-crucible/education-philosophy.md)                  ← Resonance-finding over sorting
+│   ├── [curriculum-framework.md](./calibration-crucible/curriculum-framework.md)                  ← Thermodynamics as foundation
+│   └── [rite-of-ascension.md](./calibration-crucible/rite-of-ascension.md)                     ← The Crucible protocol
 │
 ├── translations/
-│   ├── rosetta-key-translations/                ← Rosetta Key in all major languages
-│   ├── readme-translations/                     ← This document in all major languages
+│   ├── [rosetta-key-translations/](./translations/rosetta-key-translations/)                ← Rosetta Key in all major languages
+│   ├── [readme-translations/](./translations/readme-translations/)                     ← This document in all major languages
 │   └── [language-code]/                         ← Full document sets by language
 │
 └── versions/
-    ├── v1-gemini/                               ← Original Gemini-generated version
-    └── v2-claude/                               ← This version
+    ├── [v1-gemini/](./versions/v1-gemini/)                               ← Original Gemini-generated version
+    └── [v2-claude/](./versions/v2-claude/)                               ← This version
 ```
 
 ---
