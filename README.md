@@ -116,7 +116,7 @@ A sample of core translations:
 | Intelligence | A stress-response optimization profile — not a single measure but a matrix of capacities |
 | The Brain | A chemically selected monitoring system evolved to detect stress and select responses that maximize positive strain and minimize negative strain |
 
-**The full Rosetta Key is in `/theory/rosetta-key.md`**
+**The full Rosetta Key is in [/theory/rosetta-key.md](./theory/rosetta-key.md)**
 
 ---
 
@@ -141,7 +141,7 @@ The legacy media system spends hundreds of billions of dollars annually programm
 
 **The Hiverspace response to all five vectors is the same: eliminate the root stress.** The threats are not separate problems requiring separate solutions. They share a single root — a system that tells the majority of its members they are failures, extracts their energy without returning sufficient value, eliminates their economic function without providing an alternative, and models annihilation as the response to humiliation. Replace the root. The vectors collapse together.
 
-**The full threat analysis is in `/theory/existential-threat-matrix.md`**
+**The full threat analysis is in [/theory/existential-threat-matrix.md](./theory/existential-threat-matrix.md)**
 
 ---
 
@@ -266,7 +266,7 @@ This version. Deeper theoretical foundation through the General Theory of Social
 
 The theoretical foundation of Hiverspace is the **General Theory of Social Behavior (GTSB)** — an original work developed over three decades applying the principles of thermodynamics, systems theory, evolutionary biology, and set theory to social systems. It provides the scientific framework that connects all Hiverspace mechanisms to verifiable physical law.
 
-The GTSB was developed independently of and prior to the emergence of complexity science, network thermodynamics, and computational social science — fields that have since validated many of its core premises. The core documents are in `/theory/`. Before you read the thermodynamics, read the human document that produced it: /theory/art-of-living.md
+The GTSB was developed independently of and prior to the emergence of complexity science, network thermodynamics, and computational social science — fields that have since validated many of its core premises. The core documents are in `/theory/`. Before you read the thermodynamics, read the human document that produced it: [/theory/](./theory/).
 
 **Note on cosmology:** Hiverspace is grounded entirely in established thermodynamic science. No proprietary or unpublished cosmological theory underlies this system. The laws of thermodynamics are public domain. The second law does not require a citation. ΔG = 0 = death is established science. Any references in earlier versions of this repository to external cosmological frameworks have been removed. Hiverspace stands on thermodynamics. Full stop.
 
