@@ -1,6 +1,6 @@
 > **Required Reading Before You Begin:**
 > This document describes how the Calibration Crucible works.
-> Before reading it, read `codependency-networks-warning.md`
+> Before reading it, read [codependency-networks-warning.md](./codependency-networks-warning.md)
 > which describes what the legacy system was doing to you
 > before you were old enough to recognize it.
 > Understanding the exploit is the first act of genuine freedom.
