@@ -1,3 +1,8 @@
+*This document is the conceptual and political foundation of the Joule-Dollar.*
+*For the full technical specification including the Proof-of-Generation*
+*verification protocol, smart contract architecture, and implementation*
+*roadmap see `joule-dollar-specification.md`*
+
 **The Cryptographic Energy Primitive of the Swarm.**
 
 In the legacy system, fiat currency is an elastic, high-entropy illusion backed by kinetic violence, debt, and arbitrary central-bank printing. This generates perpetual systemic inflation, systematically extracting uncompensated energy from the biological nodes.
