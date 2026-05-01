@@ -16,8 +16,6 @@ Use this matrix to compile your code and proposals into the dialect of the Swarm
 | **Prison / Jail** | Kinetic Cage | A legacy thermodynamic leak where energy is burned to warehouse a node without yielding system restoration. |
 | **Punishment** | Thermodynamic Liability | The exact mathematical requirement for an offending node to replace the localized energy they destroyed. |
 | **School / Indoctrination** | Calibration Crucible | The firmware upgrade process aligning a new node's neurochemistry with objective physical reality. |
-| **Time** | Localized Phase-Drag | An emergent illusion caused by the SO(3+3) null boundary; not a fundamental dimension. |
-| **Gravity** | Geometric Phase-Leakage | The macroscopic 10^-36 geometric residue of the electromagnetic tensor crossing orthogonal shells. |
 
 ---
 
