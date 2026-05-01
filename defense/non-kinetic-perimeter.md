@@ -9,7 +9,7 @@ Hiverspace recognizes that kinetic war is the ultimate entropy leak. The Swarm d
 ## 1. The Fluid Topology (Zero-Target Architecture)
 You cannot decapitate a system that has no head. Hiverspace has no capital city, no president, and no centralized server farm. 
 
-The Swarm is a distributed $SO(3+3)$ topographical network. If a legacy empire bombs a physical community router or isolates a geographic region, the network instantly routes around the damage. The Dynamic Homeostatic Baseline (DHB) and the Joule-Dollar ledger are maintained by millions of decentralized nodes. Kinetic attacks against a fluid simply pass through the fluid; the energy dissipates, and the network seamlessly recombines behind it.
+The Swarm is a distributed topographical network. If a legacy empire bombs a physical community router or isolates a geographic region, the network instantly routes around the damage. The Dynamic Homeostatic Baseline (DHB) and the Joule-Dollar ledger are maintained by millions of decentralized nodes. Kinetic attacks against a fluid simply pass through the fluid; the energy dissipates, and the network seamlessly recombines behind it.
 
 ## 2. Cryptographic Quarantine (The Ledger Defense)
 Legacy war machines require massive amounts of continuous energy to function. Hiverspace controls the most efficient thermodynamic engine on the planet. 
