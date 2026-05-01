@@ -268,8 +268,6 @@ The theoretical foundation of Hiverspace is the **General Theory of Social Behav
 
 The GTSB was developed independently of and prior to the emergence of complexity science, network thermodynamics, and computational social science — fields that have since validated many of its core premises. The core documents are in `/theory/`. Before you read the thermodynamics, read the human document that produced it: [/theory/](./theory/).
 
-**Note on cosmology:** Hiverspace is grounded entirely in established thermodynamic science. No proprietary or unpublished cosmological theory underlies this system. The laws of thermodynamics are public domain. The second law does not require a citation. ΔG = 0 = death is established science. Any references in earlier versions of this repository to external cosmological frameworks have been removed. Hiverspace stands on thermodynamics. Full stop.
-
 ---
 
 ## LICENSE
